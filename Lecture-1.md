@@ -3,6 +3,10 @@
 
 The command line (cli, shell) is the interface between you (the user) and the operating system which interprets your commands and allows the computer to respond to your command. 
 
+# Install Git Bash
+Download Git and Git Bash from here:
+https://git-scm.com/downloads
+
 # Filesystem 
 Think of the filesystem as a tree starting with a special directory called the root which is the top of the tree - this is referred to as `/`. Every other directory is a child of this directory. 
 ```
